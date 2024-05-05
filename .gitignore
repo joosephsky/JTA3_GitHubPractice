@@ -1,5 +1,6 @@
 pom.xml
 /.idea
+/src/main/java/org/example/IgnoreClassExample.java
 
 
 
